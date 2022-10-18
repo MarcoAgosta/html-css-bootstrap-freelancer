@@ -71,3 +71,22 @@ nav button{
     border-left: 0;
     border-right: 0;
 }
+
+.btn-primary{
+    background-color: var(--bs-teal);
+    border-color: var(--bs-teal);
+}
+
+.btn-primary:hover{
+    background-color: var(--bs-teal);
+}
+
+footer .btn{
+    border-radius: 100%;
+    aspect-ratio: 1/1;
+    width: 3rem;
+}
+
+footer p{
+    margin-bottom: 3px
+}
