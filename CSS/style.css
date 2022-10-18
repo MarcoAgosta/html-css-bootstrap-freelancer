@@ -10,6 +10,64 @@ nav{
     background-color: var(--bs-gray-800);
 }
 
+.gray{
+    color: var(--bs-gray-800);
+}
+
+.white{
+    color: var(--bs-white);
+}
+
 .green{
     background-color: var(--bs-teal);
+}
+
+.green h1{
+    color: var(--bs-white);
+}
+
+.green h6{
+    color: var(--bs-white);
+}
+
+.barra{
+    background-color: var(--bs-white);
+    width: 30%;
+    height: 3px;
+}
+
+.barra-gray{
+    background-color: var(--bs-gray-800);
+}
+
+.fa-star{
+    font-size: 2rem;
+}
+
+nav h4{
+    color: var(--bs-white);
+}
+
+nav i{
+    color: var(--bs-white);
+}
+
+nav button{
+    background-color: var(--bs-gray-800);
+    border: 1px solid white;
+}
+
+.nav-link{
+    color: var(--bs-white);
+}
+
+.form-floating>label{
+    width: 90%;
+    margin-left: 5%;
+}
+
+.form-control{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
 }
